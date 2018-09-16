@@ -1,0 +1,3 @@
+[submodule "website/vrview"]
+	path = website/vrview
+	url = git@github.com:yvan-sraka/vrview.git
